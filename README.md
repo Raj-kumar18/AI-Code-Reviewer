@@ -11,7 +11,7 @@ An **AI-driven code review tool** that analyzes your JavaScript code, highlights
 
 ## 🎨 Tech Stack
 - **Frontend:** React, Tailwind CSS, React Simple Code Editor, Prism.js
-- **Backend:** Node.js, Express, OpenAI API / Custom AI Model
+- **Backend:** Node.js, Express, Google Gemini API 
 - **Additional Tools:** Axios, Markdown Rendering
 
 ## ⚡ Installation & Usage
